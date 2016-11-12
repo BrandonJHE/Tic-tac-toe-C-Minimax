@@ -1,0 +1,5 @@
+﻿  Juego.cpp
+c:\users\josue\documents\visual studio 2015\projects\gato\gato\juego.cpp(82): warning C4715: 'Juego::menuPC': no todas las rutas de acceso de control devuelven un valor
+c:\users\josue\documents\visual studio 2015\projects\gato\gato\juego.cpp(27): warning C4715: 'Juego::menuPrinc': no todas las rutas de acceso de control devuelven un valor
+  Gato.vcxproj -> C:\Users\Josue\documents\visual studio 2015\Projects\Gato\Debug\Gato.exe
+  Gato.vcxproj -> C:\Users\Josue\documents\visual studio 2015\Projects\Gato\Debug\Gato.pdb (Full PDB)
